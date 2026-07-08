@@ -28,14 +28,7 @@ https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 - Hyperparameter Tuning
 - Model Evaluation
 
-## Ishga tushirish
-
-```bash
-pip install -r requirements.txt
-streamlit run stream.py
-
-
-## **Texnologiyalar**
+## Texnologiyalar
 
 - Python
 - Streamlit
@@ -43,10 +36,17 @@ streamlit run stream.py
 - XGBoost
 - Pandas
 
-## **Jonli dastur (Live Demo)**
+## Jonli dastur (Live Demo)
 
 🔗 https://proekt-2-kf2u6miahmuvdfblrz25kv.streamlit.app/
 
-## **GitHub Repository**
+## GitHub Repository
 
 🔗 https://github.com/Munisakhon/Proekt-2
+
+
+## Ishga tushirish
+
+```bash
+pip install -r requirements.txt
+streamlit run stream.py
