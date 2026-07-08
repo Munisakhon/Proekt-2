@@ -33,3 +33,18 @@ https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 ```bash
 pip install -r requirements.txt
 streamlit run stream.py
+
+## Texnologiyalar
+- Python
+- Streamlit
+- Scikit-learn
+- XGBoost
+- Pandas
+
+## Jonli dastur (Live Demo)
+
+🔗 https://proekt-2-kf2u6miahmuvdfblrz25kv.streamlit.app/
+
+## GitHub Repository
+
+🔗 https://github.com/Munisakhon/Proekt-2
