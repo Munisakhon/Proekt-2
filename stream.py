@@ -187,6 +187,9 @@ scatter_df["y"] = scatter_df["y"].replace({
     "no": "Depozit ochmagan"
 })
 
+
+
+
 fig = px.scatter(
     scatter_df,
     x="balance",
