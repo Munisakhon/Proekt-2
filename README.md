@@ -34,7 +34,9 @@ https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 pip install -r requirements.txt
 streamlit run stream.py
 
+
 ## Texnologiyalar
+
 - Python
 - Streamlit
 - Scikit-learn
