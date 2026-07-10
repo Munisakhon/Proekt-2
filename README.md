@@ -13,12 +13,6 @@ Marketing kampaniyasidan keyin mijoz muddatli depozit ochadimi yoki yo'qmi aniql
 - Random Forest
 - XGBoost
 
-## Dataset
-
-Bank Marketing Dataset
-
-https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
-
 ## O'rganiladigan mavzular
 
 - Data Cleaning
@@ -38,7 +32,7 @@ https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 
 ## Jonli dastur (Live Demo)
 
-🔗 https://proekt-2-kf2u6miahmuvdfblrz25kv.streamlit.app/
+https://proekt-2-fxiafkfuflsgtqpyslwzdk.streamlit.app/
 
 ## GitHub Repository
 
